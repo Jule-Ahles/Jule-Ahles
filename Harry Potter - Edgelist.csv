@@ -1,0 +1,11 @@
+from,to,weight
+HP,SH,2
+HP,RW,3
+RW,HG,1
+SH,HG,1
+SH,RW,1
+SS,HP,1
+AD,HP,1
+RW,HP,3
+SH,HP,2
+HP,AD,1
